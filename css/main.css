@@ -346,6 +346,11 @@ body {
 .effect-zoe h2 {
 	display: inline-block;
 }
+
+.hidden-xs {
+	color: white;
+	margin-top: 60px;
+}
 .effect-zoe figcaption{
 	top: auto;
 	bottom: 0;
